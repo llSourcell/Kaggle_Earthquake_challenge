@@ -1,7 +1,7 @@
 # Kaggle_Earthquake_challenge
 
 ## Overview
-This is the code for the Kaggle Earthquake Challenge [videp](https://youtu.be/TffGdSsWKlA) by Siraj Raval on Youtube.
+This is the code for the Kaggle Earthquake Challenge [video](https://youtu.be/TffGdSsWKlA) by Siraj Raval on Youtube.
 
 ## Instructions
 
